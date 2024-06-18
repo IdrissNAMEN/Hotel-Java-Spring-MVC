@@ -1,2 +1,2 @@
-# Hot-tel-Java-Spring-MVC
+# Hottel-Java-Spring-MVC
 Application Web de Gestion Hôtelière 
